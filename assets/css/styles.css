@@ -69,6 +69,34 @@ div.info-slider {
     margin-bottom: 30px;
 }
 
-.current-predictions {
-    border: 3px solig green;
+
+.marriott {
+    background-color: rgb(175,95,1);
+    color: white;
+    width: 2em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
 }
+
+.bet {
+    color: rgb(22, 21, 21);
+    font-weight: 400;
+    height: 3em;
+    border-bottom:red ;
+    font-size: 1.3em;
+
+    a {
+        color: rgb(22, 21, 21);
+    }
+}
+
+.bet-options {
+    height: 3em;
+    padding: 10px 0;
+   border-bottom: 3px solid gray;
+}
+

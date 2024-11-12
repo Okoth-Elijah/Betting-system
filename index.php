@@ -7,7 +7,7 @@
 
                     <!-- Item Slide-->
                     <div class="item-slider" style="background:url(img/locations/1.jpg);">
-                        <div class="container  ">
+                        <div class="container">
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-lg-12">
                                     <div class="info-slider px-3 py-1  mt-1">
@@ -129,7 +129,6 @@
                                                     </select>
 
                                                     <a href="#"><h3 class="my-auto rounded px-2 text-white" style="background-color:  rgb(175,95,1);">Rest Filter</h3></a>
-                                                    
                                                 </div>
                                                <p class="my-1" style="color:white; font-weight:500;">Odds are correct at time of publishing and are subject to change.</ps>
                                 </div>
@@ -137,7 +136,6 @@
                         </div>
                     </div>
                     <!-- End Item Slide-->
-
 
                     <!-- Item Slide-->
                     <div class="item-slider" style="background:url(img/slide/2.jpg);">
@@ -185,25 +183,69 @@
                         <!-- content Column Left -->
                         <div class="col-lg-6 col-xl-7">
                             <!-- Recent Post -->
-                            <div class="panel-box">
+                            <div class="panel-box ">
 
                                 <div class="titles">
-                                    <h4>Recent News</h4>
+                                    <h4>Jump To Today's Football Tips</h4>
                                 </div>
-
+                                <h4 class="ml-4">25+ Please Gamble Responsibly</h4>
                                 <!-- Post Item -->
                                 <div class="post-item">
                                     <div class="row">
-                                        <div class="col-md-4">
-                                            <div class="img-hover">
-                                               <img src="img/blog/1.jpg" alt="" class="img-responsive">
-                                               <div class="overlay"><a href="single-news.html">+</a></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-8">
-                                            <h5><a href="single-news.html">Group Stage Breakdown</a></h5>
-                                            <span class="data-info">January 3, 2014  / <i class="fa fa-comments"></i><a href="#">0</a></span>
-                                            <p>While familiar with fellow European nation France, Hareide admits that South American side Peru.<a href="single-news.html">Read More [+]</a></p>
+                                        <div class="col-md-8 col-lg-12 justify-content-center">
+                                           <div class="d-flex flex-column justify-content-center px-4 border border-secondary rounded py-1 px-1">
+                                                <ul class="d-flex  bet-options text-dark" style="justify-content:space-evenly; font-size:1.5em; font-weight:bold; list-style:none;">
+                                                    <li>Match</li>
+                                                    <li>Bet</li>
+                                                    <li>Odds</li>
+                                                </ul>
+                                                <div class="bet d-flex align-items-center  mb-1 justify-content-between " >
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">Kazakhstan v Austria</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center mb-1 justify-content-between ">
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">Armenia v Faroe Islands</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center mb-1 justify-content-between ">
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">North Macedonia v Latvia</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center justify-content-between mb-1 " >
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">Rep Of Ireland v Finland</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center justify-content-between mb-1 " >
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">France v Israel</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center justify-content-between mb-1 ">
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">France v Israel</a>
+                                                    <p>Over 2.5 Goals</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+                                                <div class="bet d-flex align-items-center mb-1 justify-content-between">
+                                                    <i class="fi fi-brands-marriott-international marriott"></i>
+                                                    <a href="#">Kazakhstan v Austria</a>
+                                                    <p>Both Teams To Score - No</p>
+                                                    <button class="btn btn-primary">8/13</button>
+                                                </div>
+
+                                                <p style="font-weight:bold; color: rgb(22, 21, 21); font-size:1.2em;">Odds are correct at time of publishing and are subject to change.</p>
+
+                                           </div>
+                                           <div></div>
                                         </div>
                                    </div>
                                 </div>

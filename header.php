@@ -15,7 +15,6 @@
         <!-- Theme CSS -->
         <link href="assets/css/main.css" rel="stylesheet" media="screen">
         <link rel="stylesheet" href="assets/css/styles.css">
-
         <!-- Favicons -->
         <link rel="shortcut icon" href="img/icons/favicon.ico">
         <link rel="apple-touch-icon" href="img/icons/apple-touch-icon.png">
