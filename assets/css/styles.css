@@ -1,0 +1,74 @@
+.predictions {
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    font-size: 1.5em;
+    font-weight: 500;
+    padding: 5px 0;
+    font-family: 'Roboto', sans-serif;
+    width: 90%;
+    
+    li > a {
+        color: black;
+    }
+}
+
+.media-icons {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.6em;
+    width: 10em;
+}
+
+.bet-offers {
+    background-color:rgb(182,110,25);
+    padding: 0 7px;
+    border-radius: 5px;
+}
+
+.pre-container {
+    padding: 2px 3px;
+    width: 65em;
+}
+
+
+.settings {
+  color: black;
+}
+
+.twitter  {
+  color: #1DA1F2;
+}
+
+.facebook {
+ color: #1877F2;
+}
+
+.instagram {
+    color: #DD2A7B;
+}
+
+nav.nav-2 {
+    background-color: rgb(76,135,76);
+}
+
+.sub-current {
+    /* border: 2px solid red; */
+
+
+    a {
+        border: 2px solid green;
+    }
+}
+
+div.info-slider {
+    width: 100%;
+    background-color: rgb(182,110,25);
+    box-shadow: 0 0 10px rgb(175,95,1);
+    margin-bottom: 30px;
+}
+
+.current-predictions {
+    border: 3px solig green;
+}
